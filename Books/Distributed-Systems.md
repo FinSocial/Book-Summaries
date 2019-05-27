@@ -32,5 +32,10 @@ Definition: The Adapter pattern is used to modify the interface of the applicati
 * Notes
     - All this is performed by pulling a given container and an adapter container in a kubernetes pod. 
 
+---
+### Chapter 5.: Microservices
+Definition: Microservices are individual services creating a context bound between different aspects of an application. They seperate areas of concerns helping teams be more autonomous and also providing for a more speedy development lifecycle.
+* Notes
+    - Added complexity is added expecially when debugging such distributed systems as well as enforcing fault tolerance.
 
 
